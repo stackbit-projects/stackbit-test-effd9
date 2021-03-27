@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Lahaul Seth
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Software Engineer | Open Source Enthusiast | Blogger
     actions:
       - label: Try for free
         url: /pricing
