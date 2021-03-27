@@ -192,7 +192,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: 'Lahaul Seth | Software Engineer, Open Source Enthusiast, Blogger'
-  description: The preview of the Startup theme
+  description: 'Lahaul Seth | Software Engineer, Open Source Enthusiast, Blogger'
   extra:
     - name: 'og:type'
       value: website
