@@ -5,7 +5,7 @@ sections:
     title: Lahaul Seth
     subtitle: Software Engineer | Open Source Enthusiast | Blogger
     actions:
-      - label: Try for free
+      - label: Contact
         url: /pricing
         style: primary
     image: images/hero.svg
